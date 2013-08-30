@@ -1,8 +1,8 @@
 #################
 ## CooCox
 #################
-.cogui
-.comarker
+*.cogui
+*.comarker
 
 
 
