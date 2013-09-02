@@ -1,7 +1,7 @@
 STM32DiscoveryVCP
 =================
 
-This is a minimalistic project for the CooCox IDE which sets up a Virtual COM Port project for the [STM32F4xx Discovery Board](http://www.st.com/web/en/catalog/tools/FM116/SC959/SS1532/PF252419).  This project includes only the files necessary to compile for the STM32F4 as a VCP and uses the standard CooCox library files whenever possible.
+This is a minimalistic project for the CooCox IDE which sets up a Virtual COM Port for the [STM32F4xx Discovery Board](http://www.st.com/web/en/catalog/tools/FM116/SC959/SS1532/PF252419).  Running this code, the STM32 will appear as a COM port through which you can transmit and receive data.  This project includes only the files necessary to compile for the STM32F4 as a VCP and uses the standard CooCox library files whenever possible.
 
 The goals of this project are:
 * Provide a VCP project that works out-of-the box with CooCox
